@@ -1,0 +1,2 @@
+# Fall 2023 Data Science Projects 
+This repository contains various basic data science projects I have completed over the course of the Fall 2023 (my Junior Fall) semester at Johns Hopkins University. The majority of my projects were completed as part of the Biomedical Data Science course along side its accompanying Biomedical Data Science Laboratory taught by Dr. Brian Caffo from the JHU Department of Biostatistics and Dr. Kwame Kutten from the JHU Department of Biomedical Engineering. 
